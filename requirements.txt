@@ -1,1 +1,2 @@
-matplotlib==3.5.3pandas==1.4.3
+matplotlib==3.5.3
+pandas==1.4.3
