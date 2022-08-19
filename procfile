@@ -1,1 +1,1 @@
-worker: python streamlit.py
+worker: python stock.py
